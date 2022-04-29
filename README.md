@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOHANNES-cmd
+- 👋 Hi, I’m YOHANNES
 - 👀 I’m interested in in html,css and java programming 
 - 🌱 I’m currently learning flutter,html,css, java, and dart programming 
 - 💞️ I’m looking to collaborate on the prjects
